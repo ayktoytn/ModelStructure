@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DersModelYapisi/1.0.0": {
+        "runtime": {
+          "DersModelYapisi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DersModelYapisi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
